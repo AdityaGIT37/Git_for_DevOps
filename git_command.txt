@@ -1,0 +1,45 @@
+try { . "c:\Users\adity\AppData\Local\Programs\Microsoft VS Co...
+   2 ls
+   3 dir /a:h
+   4 ls -a
+   5 dir -f
+   6 git init
+   7 ls
+   8 ls -a
+   9 dir/a
+  10 dir /a
+  11 whoami
+  12 pwd
+  13 dir /adh
+  14 ls
+  15 ls
+  16 ls -ld
+  17 ls
+  18 ls
+  19 rm .\testing.py
+  20 ls
+  21 git status
+  22 git status
+  23 git add .\testing.py
+  24 git status
+  25 git commit -m "added testing files"
+  26 git status
+  27 ls
+  28 git add .\newfile.py
+  29 git commit .
+  30 git status
+  31 git add .\newfile.py
+  32 ls
+  33 git status
+  34 git commit -m "adding new python file"
+  35 git status
+  36 git add .\testing.py
+  37 git commit -m "add"
+  38 git status
+  39 rm .\testing.py
+  40 ls
+  41 git status
+  42 git restore testing.py
+  43 ls
+  44 histroy
+  
